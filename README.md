@@ -1,3 +1,3 @@
 # testjenkins
 # testjenkins
-[picture](/virtual.png)
+![picture](/virtual.png)
